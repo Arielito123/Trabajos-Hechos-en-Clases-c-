@@ -1,0 +1,17 @@
+C:\c#\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe.config
+C:\c#\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe
+C:\c#\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.pdb
+C:\c#\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.exe
+C:\c#\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.pdb
+C:\c#\Trabajo en clases\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe.config
+C:\c#\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.exe
+C:\c#\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.csprojResolveAssemblyReference.cache
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\bin\Debug\Inicio FIN.exe.config
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.exe
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Inicio FIN\Inicio FIN\obj\Debug\Inicio FIN.pdb
