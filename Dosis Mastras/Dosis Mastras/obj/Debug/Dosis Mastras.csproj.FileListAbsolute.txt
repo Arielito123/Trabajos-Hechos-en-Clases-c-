@@ -1,0 +1,12 @@
+C:\c#\Dosis Mastras\Dosis Mastras\bin\Debug\Dosis Mastras.exe.config
+C:\c#\Dosis Mastras\Dosis Mastras\bin\Debug\Dosis Mastras.exe
+C:\c#\Dosis Mastras\Dosis Mastras\bin\Debug\Dosis Mastras.pdb
+C:\c#\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.csprojResolveAssemblyReference.cache
+C:\c#\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.exe
+C:\c#\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\bin\Debug\Dosis Mastras.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.pdb
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\bin\Debug\Dosis Mastras.exe.config
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.exe
+C:\NICOHEREDIA\c#\Primer Año analista de sistema\Trabajo en clases\Dosis Mastras\Dosis Mastras\obj\Debug\Dosis Mastras.pdb
