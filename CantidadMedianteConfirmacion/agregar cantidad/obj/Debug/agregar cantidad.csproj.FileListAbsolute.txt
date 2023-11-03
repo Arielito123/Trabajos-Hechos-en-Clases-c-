@@ -1,0 +1,12 @@
+C:\c#\agregar cantidad\agregar cantidad\bin\Debug\agregar cantidad.exe.config
+C:\c#\agregar cantidad\agregar cantidad\obj\Debug\agregar cantidad.csprojResolveAssemblyReference.cache
+C:\c#\agregar cantidad\agregar cantidad\bin\Debug\agregar cantidad.exe
+C:\c#\agregar cantidad\agregar cantidad\bin\Debug\agregar cantidad.pdb
+C:\c#\agregar cantidad\agregar cantidad\obj\Debug\agregar cantidad.exe
+C:\c#\agregar cantidad\agregar cantidad\obj\Debug\agregar cantidad.pdb
+C:\c#\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\bin\Debug\agregar cantidad.exe.config
+C:\c#\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\obj\Debug\agregar cantidad.exe
+C:\c#\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\obj\Debug\agregar cantidad.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\bin\Debug\agregar cantidad.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\obj\Debug\agregar cantidad.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\CantidadMedianteConfirmacion\agregar cantidad\obj\Debug\agregar cantidad.pdb
