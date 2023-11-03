@@ -1,0 +1,9 @@
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\bin\Debug\Ordenamiento Burbuja.exe.config
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\bin\Debug\Ordenamiento Burbuja.exe
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\bin\Debug\Ordenamiento Burbuja.pdb
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\obj\Debug\Ordenamiento Burbuja.csprojResolveAssemblyReference.cache
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\obj\Debug\Ordenamiento Burbuja.exe
+C:\c#\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\obj\Debug\Ordenamiento Burbuja.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\bin\Debug\Ordenamiento Burbuja.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\obj\Debug\Ordenamiento Burbuja.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Burbuja\Ordenamiento Burbuja\obj\Debug\Ordenamiento Burbuja.pdb

@@ -1,0 +1,9 @@
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\bin\Debug\Ordenamiento Por Seleccion.exe.config
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\bin\Debug\Ordenamiento Por Seleccion.exe
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\bin\Debug\Ordenamiento Por Seleccion.pdb
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\obj\Debug\Ordenamiento Por Seleccion.csprojResolveAssemblyReference.cache
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\obj\Debug\Ordenamiento Por Seleccion.exe
+C:\c#\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\obj\Debug\Ordenamiento Por Seleccion.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\bin\Debug\Ordenamiento Por Seleccion.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\obj\Debug\Ordenamiento Por Seleccion.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Seleccion\Ordenamiento Por Seleccion\obj\Debug\Ordenamiento Por Seleccion.pdb

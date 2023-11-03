@@ -1,0 +1,12 @@
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\bin\Debug\Ordenamiento de cadena.exe.config
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\bin\Debug\Ordenamiento de cadena.exe
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\bin\Debug\Ordenamiento de cadena.pdb
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.csprojResolveAssemblyReference.cache
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.exe
+C:\c#\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.pdb
+C:\c#\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\bin\Debug\Ordenamiento de cadena.exe.config
+C:\c#\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.exe
+C:\c#\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\bin\Debug\Ordenamiento de cadena.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento de cadena\Ordenamiento de cadena\obj\Debug\Ordenamiento de cadena.pdb

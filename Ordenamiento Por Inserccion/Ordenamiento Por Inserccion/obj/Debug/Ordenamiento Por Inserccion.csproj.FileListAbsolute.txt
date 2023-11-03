@@ -1,0 +1,9 @@
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\bin\Debug\Ordenamiento Por Inserccion.exe.config
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\bin\Debug\Ordenamiento Por Inserccion.exe
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\bin\Debug\Ordenamiento Por Inserccion.pdb
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\obj\Debug\Ordenamiento Por Inserccion.csprojResolveAssemblyReference.cache
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\obj\Debug\Ordenamiento Por Inserccion.exe
+C:\c#\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\obj\Debug\Ordenamiento Por Inserccion.pdb
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\bin\Debug\Ordenamiento Por Inserccion.exe.config
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\obj\Debug\Ordenamiento Por Inserccion.exe
+C:\c#\Primer Año analista de sistema\Trabajo en clases\Ordenamiento Por Inserccion\Ordenamiento Por Inserccion\obj\Debug\Ordenamiento Por Inserccion.pdb
