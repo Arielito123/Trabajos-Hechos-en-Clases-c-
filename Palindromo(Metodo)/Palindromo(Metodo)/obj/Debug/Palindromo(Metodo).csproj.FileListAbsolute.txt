@@ -1,0 +1,9 @@
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\bin\Debug\Palindromo(Metodo).exe.config
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\bin\Debug\Palindromo(Metodo).exe
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\bin\Debug\Palindromo(Metodo).pdb
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\obj\Debug\Palindromo(Metodo).csprojResolveAssemblyReference.cache
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\obj\Debug\Palindromo(Metodo).exe
+C:\c#\Palindromo(Metodo)\Palindromo(Metodo)\obj\Debug\Palindromo(Metodo).pdb
+C:\c#\Trabajo en clases\Palindromo(Metodo)\Palindromo(Metodo)\bin\Debug\Palindromo(Metodo).exe.config
+C:\c#\Trabajo en clases\Palindromo(Metodo)\Palindromo(Metodo)\obj\Debug\Palindromo(Metodo).exe
+C:\c#\Trabajo en clases\Palindromo(Metodo)\Palindromo(Metodo)\obj\Debug\Palindromo(Metodo).pdb

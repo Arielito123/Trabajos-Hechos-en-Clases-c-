@@ -1,0 +1,6 @@
+C:\c#\palindromo\palindromo\bin\Debug\palindromo.exe.config
+C:\c#\palindromo\palindromo\bin\Debug\palindromo.exe
+C:\c#\palindromo\palindromo\bin\Debug\palindromo.pdb
+C:\c#\palindromo\palindromo\obj\Debug\palindromo.csprojResolveAssemblyReference.cache
+C:\c#\palindromo\palindromo\obj\Debug\palindromo.exe
+C:\c#\palindromo\palindromo\obj\Debug\palindromo.pdb
